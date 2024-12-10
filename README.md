@@ -1,6 +1,7 @@
 #Jeeva training repository
 
 ##overview
+Training reposirory - documented the exercises and assesments
 
 ##exercises
 
