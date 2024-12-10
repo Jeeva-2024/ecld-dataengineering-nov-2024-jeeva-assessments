@@ -3,14 +3,15 @@
 ##overview
 
 ##exercises
-###easy
+
+###easy problems
 - [Return the next number](https://edabit.com/challenge/KjCS7occ9hfu5snpb) - [Solution](excercises/easy/list.py)
 - [stuttering function](https://edabit.com/challenge/gt9LLufDCMHKMioh2)-[solution](excercises/easy/stutter.py)
 - [radiens to degrees](https://edabit.com/challenge/2X2uZysLJ3CpsxLDD)-[solution](excercises/easy/raiantodegree.py)
 - [Luke I am your.....](https://edabit.com/challenge/8pDH2SRutPoaQghgc)-[solution](excercises/easy/luke.py)
 
 
-###medium
+###medium problems
 - [finding adjacent nodes](https://edabit.com/challenge/3DAkZHv2LZjgqWbvW)-[solution](excercises/medium/adjacentnode.py)
 - [highest integer in list using recursion](https://edabit.com/challenge/xRMQG4Sxewx5agDRr)-[solution](excercises\medium\listrecursion.py)
 - [length of line segment](https://edabit.com/challenge/9a8rXCGo4JE36juoF)-[solution](excercises/medium/lengthoflinesegment.py)
@@ -22,7 +23,7 @@
 - [bundle up](https://edabit.com/challenge/saKcrsreCGXD28hgE)-[solution](excercises/medium/bundleup.py)
 
 
-###hard
+###hard problems
 - [count the digit](https://edabit.com/challenge/wv6p5WR648oG6mTZx)-[solution](excercises/hard/countthedigit.py)
 - [disarium](https://edabit.com/challenge/pyxXekyofGasXX2me)-[solution](excercises\hard\disarium.py)
 - [love me,loves me not](https://edabit.com/challenge/wNfRFhnAefjJcXwQ4)-[solution](excercises/hard/love.py)
